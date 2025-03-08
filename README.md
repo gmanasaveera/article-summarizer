@@ -1,4 +1,3 @@
-# article-summarizer
 # Article Summarization Tool
 
 This is a Streamlit application that allows users to summarize articles, newspapers, research papers, and other text content. The app supports user authentication (Signup/Login) and allows for article processing through URL input. It extracts the text and generates a summary of the content, offering an easy-to-use tool for quick summarization of large articles and documents.
